@@ -1,5 +1,5 @@
 package com.benomads.cashcard2m;
 
-record CashCard(Long id, Double amount) {
+public record CashCard(Long id, Double amount) {
 }
 
